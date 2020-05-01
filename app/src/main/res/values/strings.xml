@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ContextMenu</string>
+    <string name="title_delete">Delete</string>
+    <string name="title_help">Help</string>
+    <string name="title_share">Share</string>
+
+    <string-array name="turkey">
+        <item>Istanbul</item>
+        <item>Ankara</item>
+        <item>Marmaris</item>
+        <item>Trabzon</item>
+        <item>Bursa</item>
+        <item>Izmir</item>
+    </string-array>
+
+</resources>
